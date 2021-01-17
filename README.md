@@ -6,3 +6,5 @@
 -> x will only divide when the number is in the range between 2 to x-1
 
 -Length of String calculated without using strlen()
+
+-HCF 
