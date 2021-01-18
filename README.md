@@ -12,3 +12,7 @@
   1. HCF is a number which divides both the numbers ex:- num1 = 4 & num2 = 6
   2. HCF is a big number , there is no bigger number than this (hcf) then it is HCF.
   
+-Amicable Numbers (Friendly Numbers)
+  1. if they have common abundancy index , Or the ratio between sum of divisors of a number and the number itself.
+  2. 
+  
