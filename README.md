@@ -14,5 +14,8 @@
   
 -Amicable Numbers (Friendly Numbers)
   1. if they have common abundancy index , Or the ratio between sum of divisors of a number and the number itself.
-  2. 
+  2. Divisors of 6 are 1,2,3,6 
+  3. Divisors of 28 are 1,2,4,7,14,28
+  4. Sum of divisors of 6 and 28 are 12 and 56 respectively.
+  5. Also abundant index of 6 and 28 is 2. Therefore, 6 and 28 is a friendly pair
   
